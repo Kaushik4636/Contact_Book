@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 1. **Clone this repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/contact-book.git
+   git clone https://github.com/Kaushik4636/Contact_Book.git
    ```
 
 2. **Navigate to the project directory**:
@@ -110,16 +110,12 @@ Feel free to fork the repository, submit issues, or make pull requests. Contribu
 ## Contact:
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me at:
+
 **Email**: [madhavankaushik3@gmail.com](mailto:madhavankaushik3@gmail.com)
+
 **GitHub**: [github.com/Kaushik4636](https://github.com/Kaushik4636)
 
 Thanks for checking out the Contact Book project, and happy coding!
-
----
-
-### Notes:
-
-* Don’t forget to replace `your-username` with your actual GitHub username in the `git clone` URL and GitHub link.
 * If you want to add any new features or tweak the code, you’re free to contribute! I’d love to see what you build.
 
 
